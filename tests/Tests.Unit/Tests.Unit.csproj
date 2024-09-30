@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Mindbox\Library.csproj" />
+    <ProjectReference Include="..\..\src\Library\Library.csproj" />
   </ItemGroup>
 
   <ItemGroup>
